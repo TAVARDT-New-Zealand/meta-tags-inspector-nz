@@ -1,4 +1,4 @@
-# Meta Tags and Open Graph Inspector | TAVARDT New Zealand
+# Meta Tags and Open Graph Inspector
 
 [![Meta Tags Inspector](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/nz/meta-tags-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For recurring audits and real-time social card verification:
 ## New Zealand Digital Architecture Advisory
 
 For search engine optimization and compliance with NZ Web Standards and W3C Specifications, contact the specialists at **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
