@@ -5,7 +5,7 @@
 
 Independent metadata validator for New Zealand digital assets, checking HTML title completeness, meta descriptions, and social previews.
 
-Engineered and maintained by the digital integrity and search team at **TAVARDT New Zealand**.
+Engineered and maintained by the digital integrity and search team at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python meta_inspector.py example.co.nz -json
 For recurring audits and real-time social card verification:
 
 * **Official Meta Tags Inspector**
-* **TAVARDT New Zealand Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## New Zealand Digital Architecture Advisory
 
-For search engine optimization and compliance with NZ Web Standards and W3C Specifications, contact the specialists at **TAVARDT New Zealand**.
+For search engine optimization and compliance with NZ Web Standards and W3C Specifications, contact the specialists at **TAVARDT**.
 
 ***
 
