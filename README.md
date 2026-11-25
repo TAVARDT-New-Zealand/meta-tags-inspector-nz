@@ -2,6 +2,7 @@
 
 [![Meta Tags Inspector](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/nz/meta-tags-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Independent metadata validator for New Zealand digital assets, checking HTML title completeness, meta descriptions, and social previews.
 
@@ -57,6 +58,11 @@ For search engine optimization and compliance with NZ Web Standards and W3C Spec
 * **Corporate Portal:** https://ag.tavardt.com/nz/
 * **Diagnostic Suite:** https://tools.tavardt.com/nz/
 * **Technical Contact:** https://ag.tavardt.com/nz/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
